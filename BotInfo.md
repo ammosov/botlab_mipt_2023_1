@@ -45,8 +45,8 @@ P1: d2-d4
 P2: d7-d5
 P1: c2-c4
 P2: e7-e6
-P1: Kb1-c3
-P2: Kg8-f6
+P1: Nb1-c3
+P2: Ng8-f6
 P1: Cc1-g5
 ...
 ```
