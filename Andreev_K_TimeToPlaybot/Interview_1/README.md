@@ -1,3 +1,5 @@
+Видеозапись доступна по ссылке: https://cloud.mail.ru/public/5mXT/rBjiBZhJm
+Скрины переписки:
 ![](Source/interview_1_1.png)
 ![](Source/interview_1_2.png)
 ![](Source/interview_1_3.png)
